@@ -1,0 +1,27 @@
+body, html {
+    background-color: rgb(30, 30, 30);
+}
+
+img {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 50px;
+}
+
+h1 {
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    font-size: 14pt;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#canvas {
+    background-color: rgb(20, 20, 20);
+    position: absolute;
+    left: 0;
+    top: 60px;
+    width: 100%;
+}
